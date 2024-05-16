@@ -98,10 +98,6 @@ References or testimonials from colleagues, mentors, or clients.
 - Reference 1: Name, Position/Title, Contact Information
 - Reference 2: Name, Position/Title, Contact Information
 
-## Additional Information
+## How to set-up
+- Read the setup.md file on how to setup your profile
 
-Any additional information or details you want to include in your profile.
-
----
-
-Feel free to customize this template according to your preferences and requirements.

@@ -11,6 +11,18 @@ Brief introduction about yourself, including your background, interests, and goa
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
 - **Website/Blog**: [Your Website/Blog](https://www.yourwebsite.com)
 
+## Projects
+
+Highlight of your notable projects, including links to GitHub repositories or project websites.
+
+### Project 1
+- Description: Brief description of the project.
+- GitHub Repository: [Project Repository](https://github.com/your-username/project-repo)
+
+### Project 2
+- Description: Brief description of the project.
+- GitHub Repository: [Project Repository](https://github.com/your-username/project-repo)
+
 
 ## Experience
 
@@ -32,18 +44,6 @@ Details about your education, including degrees, certificates, and relevant cour
 
 - Degree: [Degree Name], University Name, Year
 - Certificate: [Certificate Name], Issuing Organization, Year
-
-## Projects
-
-Highlight of your notable projects, including links to GitHub repositories or project websites.
-
-### Project 1
-- Description: Brief description of the project.
-- GitHub Repository: [Project Repository](https://github.com/your-username/project-repo)
-
-### Project 2
-- Description: Brief description of the project.
-- GitHub Repository: [Project Repository](https://github.com/your-username/project-repo)
 
 ## Skills
 
